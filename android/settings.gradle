@@ -1,0 +1,3 @@
+rootProject.name = 'tddtest1'
+
+include ':app'
